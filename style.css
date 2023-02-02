@@ -1046,3 +1046,12 @@ h4 {
         text-align: center;
     }
 }
+
+.nav-links {
+    text-decoration: underline;
+}
+
+.nav-links:hover {
+    cursor: pointer;
+
+}
